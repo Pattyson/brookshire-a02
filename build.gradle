@@ -19,7 +19,7 @@ test {
     useJUnitPlatform()
 }
 
-application {
+application {`
     mainClass = 'Solution06'
 }
 
