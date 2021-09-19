@@ -2,7 +2,7 @@
 import java.util.Calendar;
 import java.util.Scanner;
 
-public class Solution6{
+public class Solution06{
 
     public static void main(String[] agrs) {
 
